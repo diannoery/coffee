@@ -105,12 +105,12 @@
         }
     ],
     "Contact": {
-        "address": "4321 California St, San Francisco, CA 12345 ",
-        "phone": "+1 123 456 1234",
-        "email": "info@company.com",
-        "facebook": "fb.com",
-        "twitter": "twitter.com",
-        "youtube": "youtube.com"
+        "address": "Banda Aceh, INDONESIA",
+        "phone": "+62 8999999999",
+        "email": "coffee-class@company.com",
+        "facebook": "coffee-class",
+        "twitter": "coffee-class",
+        "youtube": "coffee-class"
     },
     "Features": [{
             "icon": "fa fa-comments-o",
